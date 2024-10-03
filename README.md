@@ -1,0 +1,1 @@
+# plugins-wc-delete-product-images
