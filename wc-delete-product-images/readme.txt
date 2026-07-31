@@ -9,7 +9,7 @@ Stable tag: 3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Safely deletes WooCommerce product images (featured, gallery, and variations) on permanent deletion from the file system, with smart protection against shared image removal.
+Safely deletes WooCommerce product images (featured, gallery, variations) on permanent delete, with protection for shared images.
 
 == Description ==
 Automatically deletes all images associated with a WooCommerce product when the product is permanently deleted from the Trash.
